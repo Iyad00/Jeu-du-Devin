@@ -1,0 +1,30 @@
+html {
+    background-color:beige;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+
+    font-size:35px;
+    padding-top: 150px;
+}
+
+#valide {
+    
+    height: 30px;
+    width: 100px;
+    font-size: medium;
+    border-radius: 20px;
+}
+
+#input {
+    
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 15px;
+}
